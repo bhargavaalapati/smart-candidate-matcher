@@ -1,0 +1,9 @@
+
+# To install all dependencies, run: pip install -r requirements.txt
+scikit-learn
+joblib
+PyMuPDF
+beautifulsoup4
+streamlit
+numpy
+matplotlib
