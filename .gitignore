@@ -1,0 +1,14 @@
+# Ignore the whole resume_dataset folder and all files inside
+# Datasets
+data/resume_dataset/
+
+# Models
+models/
+
+# Environment
+venv/
+__pycache__/
+
+# IDE
+.vscode/
+.DS_Store # Mac specific
