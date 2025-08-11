@@ -8,3 +8,4 @@ streamlit
 numpy
 matplotlib
 docx2txt
+tabulate
