@@ -7,3 +7,4 @@ beautifulsoup4
 streamlit
 numpy
 matplotlib
+docx2txt
